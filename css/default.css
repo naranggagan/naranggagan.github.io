@@ -97,12 +97,12 @@ q:before, q:after {
 
 ins {
    background-color: rgb(255, 255, 255);
-   color: #000;
+   color: rgb(255, 255, 255);
    text-decoration: none;
 }
 
 mark {
-   background-color: #ffffff;
+   background-color: #000000;
    color: rgb(0, 0, 0);
 }
 
@@ -263,7 +263,7 @@ abbr {
 	font-variant: small-caps;
 	text-transform: lowercase;
    letter-spacing: .5px;
-	color: gray;
+	color: rgb(0, 0, 0);
 }
 abbr:hover { cursor: help; }
 
