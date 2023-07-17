@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Assistant
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching assistant
+description: Materials for courses you taught.
 nav: true
 nav_order: 5
 ---
