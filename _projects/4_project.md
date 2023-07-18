@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Experimentation and Simulation on Biological Systems
+description: Under the guidance of Prof. Mair, the exploration involved computer simulations to understand evolution, genetics, cellular decision-making, and gene expression. Studied the evolution of drug resistance, population genetics and evolution through a statistical analysis of experiments.
 img:
 importance: 3
 category: fun

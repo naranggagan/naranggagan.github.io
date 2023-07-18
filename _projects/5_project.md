@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Magnetic Resonance Elastography
+description: The seminar helped me investigate recent trends in state-of-the-art medical imaging methods with my presentation on Medical Elastography. The seminar was finally presented at the University of Bonn.
 img: assets/img/1.jpg
 importance: 3
 category: fun

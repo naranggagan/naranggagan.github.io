@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Support Poverty Alleviation & Rural Revitalization Through Cost-Effective Electric Mobility
+description: Winner of Bronze Award by the Shanghai Regional Government, among thousands of international proposals for the funding pitch and is an effort to translate research into a product. My role was to provide health empirics in the use of e-mobility correlating it with financial revitalizations of marginalized communities.
+img: assets/img/urbanmobility.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.

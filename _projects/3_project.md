@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Online Voting System
+description: Developed a web-based e-voting system functioning to securely conduct elections. The motivation behind the digital platform is to investigate the future voting frameworks and eliminate the need to gather in-person votes.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/Binary-Beasts-One/DU_Online_Voting_System#du_online_voting_system
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Augmented Reality Supported Processed Food Proportion Estimation System
+description: A hybrid approach combines computer-supported systems based on NOVA classification and utilizes Unity-3D a rule-based engine for augmenting interfacing.
 img:
 importance: 4
 category: fun
