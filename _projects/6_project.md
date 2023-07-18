@@ -2,7 +2,7 @@
 layout: page
 title: Augmented Reality Supported Processed Food Proportion Estimation System
 description: A hybrid approach combines computer-supported systems based on NOVA classification and utilizes Unity-3D a rule-based engine for augmenting interfacing.
-img:
+img: assets/img/3.jpg
 importance: 4
 category: fun
 ---

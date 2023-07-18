@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching assistant
-description: I have assisted Dr. Hareesh Pillai, Dr. Alessandro Galdelli in their teaching activities in technology mangagement and programming related courses.
+description: i have assisted Dr. Hareesh Pillai, Dr. Alessandro Galdelli in their teaching activities in technology mangagement and programming related courses.
 nav: true
 nav_order: 5
 ---

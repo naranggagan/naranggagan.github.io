@@ -15,43 +15,35 @@
       institution: Università Politecnica delle Marche, Italy
       year: 2022-2025*
       description:
-        - Università Politecnica delle Marche, Ph.D. Information Engineering Curriculum: Informatics Management and Automation Engineering Industry Funded Project (by Jef Digital Innovation s.r.l)
-        - Advisor: Dr. Adriano Mancini
-        - Co-Advisor: Dr. Primo Zingaretti
-
+        - Curriculum Informatics Management and Automation Engineering Industry Funded Project (by Jef Digital Innovation s.r.l)
+        - Advisor Dr. Adriano Mancini
+        - Co-Advisor Dr. Primo Zingaretti
     - title: Master's Degree
       institution: University of Delhi, India
       year: 2020-2022
       description:
-        - Major: Informatics
-        - CGPA: 7.896 on a 10-point scale (First Division with Distinction)
-        - Advisor: Dr. Usharani Hareesh Govindarajan
+        - Major in Informatics
+        - CGPA 7.896 on a 10-point scale (First Division with Distinction)
+        - Advisor Dr. Usharani Hareesh Govindarajan
+        - Co-Advisor Prof. Sanjiv Singh
 
     - title: Bachelor's Degree
       institution: Lovely Professional University, India
       year: 2015-2018
       description:
-        - Major: Physics
-        - CGPA: 9.29 on a 10-point scale (First Division with Distinction)
-        - Advisor: Dr. Muneer Ahmed
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: Support Poverty Alleviation & Rural Revitalization Through Cost-Effective Electric Mobility
-      year: 2022
-      description: Winner of Bronze Award by the Shanghai Regional Government, among thousands of international proposals for the funding pitch and is an effort to translate research into a product. My role was to provide health empirics in the use of e-mobility correlating it with financial revitalizations of marginalized communities.
+        - Major in Physics
+        - CGPA 9.29 on a 10-point scale (First Division with Distinction)
+        - Advisor  Dr. Muneer Ahmed
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Research and Writing
-      items: 
+      description: 
         - I am passionate about conducting research and writing academic articles in my field of expertise.
         - I enjoy exploring new topics and contributing to the knowledge base through scholarly publications.
-
     - title: Competitions and Challenges
-      items:
+      description:
         - I actively participate in academic competitions and challenges to enhance my skills and stay updated with the latest developments in my field.
         - I find great value in the collaborative and competitive nature of these events, as they push me to excel and showcase my abilities.
 
@@ -61,4 +53,3 @@
     - <u>Hobbies:</u> Blogging, Reading, Outdoor activities
     - <u>Knowledge Kledoscope:</u> I am the founder of Knowledge Kledoscope, a research consultancy firm dedicated to providing expert insights and solutions to clients in various industries. We specialize in leveraging our academic expertise to address complex challenges and drive innovation.
     - <u>Novel Designs:</u> I am a co-founder of Novel Designs, an architectural design firm known for its innovative and sustainable approach to design. We strive to create unique and functional spaces that harmonize with the environment and meet the needs of our clients.
-
