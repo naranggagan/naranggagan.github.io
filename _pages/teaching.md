@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Teaching Experience
+## teaching assistant experience
 
 1. **Python for Advanced Data Analysis (Summer 2023)**
    - The course focused on utilizing advanced libraries such as scikit-learn and tools to enhance data analysis capabilities.
