@@ -113,16 +113,16 @@ contact_note: >
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: google-site-verification=E57k4K0qr2YEf3saQ2B1SxrvdGLZisgEn-4QYSO69Yo # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: semantic insights # blog_name will be displayed in your blog page
+blog_name: sustainability dossier # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a scholars perspective on research and life. please subscribe to the  <a href="https://www.linkedin.com/in/gagan-narang/">LinkedIn newsletter</a> for a monthly summary of semantic insights.
+blog_description: a scholars perspective on research and life. please subscribe to the  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7104404422050365440">LinkedIn newsletter</a> for a bi-weekly summary.
 permalink: /blog/:year/:title/
 
 # Pagination
