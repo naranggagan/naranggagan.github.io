@@ -14,9 +14,9 @@ profile:
     <p>Q165 Room No. 208 </p>
     <p>Via Brecce Bianche, 12, 60131 Ancona (AN), Italy.</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -82,4 +82,3 @@ Please feel free to reach out if you are interested in collaborations at the int
   </div>
 
 </div>
-
