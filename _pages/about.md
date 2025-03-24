@@ -29,58 +29,61 @@ I am particularly interested in applying AI and time series analysis to sustaina
 Please feel free to reach out if you are interested in collaborations at the intersection of innovation, AI, and public good.
 
 
-<div class="row mt-4">
+
+<h3 class="mt-5 mb-4">Core Areas of Work and Engagements</h3>
+
+<div class="row mt-5 mb-4">
 
   <div class="col-md-4">
-    <div class="card p-3 h-100">
-      <h4 class="mb-2">Research & Forecasting</h4>
+    <div class="card p-4 h-100">
+      <h4 class="mb-2">Research Directions</h4>
       <ul>
-        <li>AI-driven technology foresight</li>
-        <li>Patent analytics & trend mapping</li>
-        <li>Time series & spatiotemporal modeling</li>
+        <li>Artificial Intelligence in Remote Sensing Applications</li>
+        <li>Patent analytics & Innovation Management</li>
+        <li>Strategic Management using Artificial Intelligence</li>
       </ul>
     </div>
   </div>
 
   <div class="col-md-4">
-    <div class="card p-3 h-100">
+    <div class="card p-4 h-100">
       <h4 class="mb-2">Teaching & Mentorship</h4>
       <ul>
         <li>Curriculum design & MOOC delivery</li>
-        <li>International guest lectures</li>
-        <li>Deep learning for sustainability</li>
+        <li>Academic Services (Conference Special Sessions Hosting, Peer Reviewer)</li>
+        <li>Participation in Startup & Hackathons </li>
       </ul>
     </div>
   </div>
 
   <div class="col-md-4">
-    <div class="card p-3 h-100">
+    <div class="card p-4 h-100">
       <h4 class="mb-2">Policy & Advocacy</h4>
       <ul>
-        <li>EU-funded projects (e.g., Smart4ENV)</li>
-        <li>UN Groundwater Youth Network</li>
-        <li>Cross-sectoral tech strategy</li>
+        <li>International and National Projects Involvement</li>
+        <li>Vice Chair for UN Groundwater Youth Network</li>
+        <li>Partnership with Think Tanks</li>
       </ul>
     </div>
   </div>
 
 </div>
 
-<div class="row mt-4">
+<div class="row mt-5 mb-4">
 
   <div class="col-md-4">
-    <div class="card p-3 h-100">
-      <h4 class="mb-2">Applied Innovation</h4>
+    <div class="card p-4 h-100">
+      <h4 class="mb-2">Technology Orchestration</h4>
       <ul>
-        <li>Smart aquaculture systems</li>
+        <li>Smart aquaculture/agricultural systems</li>
         <li>Electric mobility projects</li>
         <li>Digital tools for social impact</li>
       </ul>
     </div>
   </div>
 
-  <div class="col-md-4">
-    <div class="card p-3 h-100">
+  <!-- <div class="col-md-4">
+    <div class="card p-4 h-100">
       <h4 class="mb-2">Collaborative Engagement</h4>
       <ul>
         <li>Hackathons & innovation labs</li>
@@ -88,6 +91,6 @@ Please feel free to reach out if you are interested in collaborations at the int
         <li>Interdisciplinary consortia</li>
       </ul>
     </div>
-  </div>
+  </div> -->
 
 </div>
