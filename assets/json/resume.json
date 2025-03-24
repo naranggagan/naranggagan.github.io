@@ -1,192 +1,192 @@
-"education": [
-  {
-    "institution": "Università Politecnica delle Marche",
-    "url": "https://www.univpm.it/",
-    "area": "Information Engineering",
-    "studyType": "PhD",
-    "startDate": "2022-11",
-    "endDate": "",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "Vellore Institute of Technology (VIT), India",
-    "url": "https://vit.ac.in/",
-    "area": "Electronics and Communication Engineering",
-    "studyType": "B.Tech",
-    "startDate": "2016-07",
-    "endDate": "2020-06",
-    "score": "9.05 CGPA",
-    "courses": []
-  }
-]
-"work": [
-  {
-    "name": "JEF Digital Innovation S.r.l.",
-    "position": "AI Research Intern",
-    "url": "https://www.jef.it/",
-    "startDate": "2023-09",
-    "endDate": "2023-12",
-    "summary": "Worked at the intersection of AI and technology forecasting. Built pipelines to integrate data from multiple formats, combining patent and publication datasets.",
-    "highlights": [
-      "Led patent intelligence integration for foresight research",
-      "Created visualization dashboards using patent meta-data"
-    ]
-  },
-  {
-    "name": "Fly Media Network",
-    "position": "Affiliate Marketing Executive",
-    "url": "",
-    "startDate": "2021-04",
-    "endDate": "2022-04",
-    "summary": "Managed affiliate and performance marketing campaigns for international clients.",
-    "highlights": [
-      "Optimized funnel strategies across ad networks",
-      "Increased ROI through campaign design and performance tracking"
-    ]
-  }
-]
-"certificates": [
-  {
-    "name": "AI for Good – ITU and Stanford HAI",
-    "issuer": "International Telecommunication Union (ITU)",
-    "date": "2023-09",
-    "url": "https://aiforgood.itu.int/"
-  },
-  {
-    "name": "Exploring AI with Edge Impulse",
-    "issuer": "Edge Impulse",
-    "date": "2022-12",
-    "url": "https://www.edgeimpulse.com/"
-  },
-  {
-    "name": "Patent Analytics using AI",
-    "issuer": "WIPO Academy",
-    "date": "2023-05",
-    "url": "https://www.wipo.int/academy/en/"
-  },
-  {
-    "name": "AI for Sustainable Development Goals",
-    "issuer": "UNESCO and UNITAR",
-    "date": "2023-10",
-    "url": ""
-  }
-]
-"skills": [
-  {
-    "name": "Programming",
-    "level": "Advanced",
-    "keywords": ["Python", "MATLAB", "JavaScript", "Bash"]
-  },
-  {
-    "name": "AI & Data Science",
-    "level": "Advanced",
-    "keywords": ["Time Series Analysis", "Machine Learning", "Deep Learning", "Patent Analytics", "Forecasting"]
-  },
-  {
-    "name": "Tools",
-    "level": "Proficient",
-    "keywords": ["Jupyter", "Git", "Docker", "Figma", "Power BI"]
-  },
-  {
-    "name": "Soft Skills",
-    "level": "Fluent",
-    "keywords": ["Public Speaking", "Scientific Writing", "Cross-cultural Collaboration", "Project Management"]
-  }
-]
-"volunteer": [
-  {
-    "organization": "UN Groundwater Youth Network",
-    "position": "Vice Chair",
-    "startDate": "2023-06",
-    "summary": "Facilitating global youth engagement in groundwater policy advocacy and research.",
-    "url": "https://www.groundwateryouthnetwork.org/"
-  },
-  {
-    "organization": "IEEE TechEthics Global Competition",
-    "position": "Finalist – Youth Panel",
-    "startDate": "2023-10",
-    "summary": "Presented a tech-ethics case on predictive policing and public safety data governance.",
-    "url": "https://techethics.ieee.org/"
-  },
-  {
-    "organization": "Startup Weekend Marche (Techstars)",
-    "position": "Hackathon Participant",
-    "startDate": "2022-11",
-    "summary": "Worked on a solution for real-time crowd sensing to assist disaster response systems.",
-    "url": "https://www.techstars.com/"
-  }
-]
-"awards": [
-  {
-    "title": "IEEE TechEthics Finalist",
-    "date": "2023-10",
-    "awarder": "IEEE TechEthics",
-    "summary": "Selected for presenting ethical challenges and solutions involving AI governance for public safety."
-  },
-  {
-    "title": "Best Paper Award (Nomination)",
-    "date": "2022-09",
-    "awarder": "IEEE AICAS Conference",
-    "summary": "Nominated for best paper on AI-based edge intelligence for sustainable aquaculture systems."
-  },
-  {
-    "title": "Doctoral Research Fellowship",
-    "date": "2022-11",
-    "awarder": "Università Politecnica delle Marche",
-    "summary": "Awarded for excellence in interdisciplinary AI research in smart systems and policy alignment."
-  }
-]
-"languages": [
-  {
-    "language": "English",
-    "fluency": "Fluent"
-  },
-  {
-    "language": "Punjabi",
-    "fluency": "Native"
-  },
-  {
-    "language": "Hindi",
-    "fluency": "Native"
-  },
-  {
-    "language": "Italian",
-    "fluency": "Intermediate"
-  }
-]
-"publications": [
-  {
-    "name": "A Multi-Layered Threat Strategy Against UAVs Using Model Predictive Control",
-    "publisher": "IEEE Transactions on Aerospace and Electronic Systems",
-    "releaseDate": "2024-01",
-    "url": "https://doi.org/10.1109/TAES.2024.1234567",
-    "summary": "Proposed a novel antagonistic control framework that strategically destabilizes multirotor UAVs by manipulating their MPC controllers."
-  },
-  {
-    "name": "Combining Patent Analytics and Strategic Foresight: A Machine Learning Approach",
-    "publisher": "Technological Forecasting and Social Change",
-    "releaseDate": "2023-11",
-    "url": "https://doi.org/10.1016/j.techfore.2023.123456",
-    "summary": "Introduced an integrated pipeline for patent-based trend forecasting using unsupervised ML and NLP techniques."
-  },
-  {
-    "name": "Explainable AI for Aquaculture Automation using Remote Sensing Data",
-    "publisher": "IEEE Access",
-    "releaseDate": "2023-06",
-    "url": "https://doi.org/10.1109/ACCESS.2023.12345678",
-    "summary": "Developed a computer vision pipeline using SAR and optical images for aquaculture monitoring with XAI-based interpretability."
-  }
-]
-"interests": [
-  { "name": "AI for Public Policy" },
-  { "name": "Foresight and Technology Governance" },
-  { "name": "Digitalization in SGIs (Energy, Water, Mobility)" },
-  { "name": "Remote Sensing for Sustainability" }
-]
-"references": [
-  {
-    "name": "Prof. Emanuele Frontoni",
-    "reference": "Full Professor, Università Politecnica delle Marche. Email: e.frontoni@univpm.it"
-  }
-]
+// "education": [
+//   {
+//     "institution": "Università Politecnica delle Marche",
+//     "url": "https://www.univpm.it/",
+//     "area": "Information Engineering",
+//     "studyType": "PhD",
+//     "startDate": "2022-11",
+//     "endDate": "",
+//     "score": "",
+//     "courses": []
+//   },
+//   {
+//     "institution": "Vellore Institute of Technology (VIT), India",
+//     "url": "https://vit.ac.in/",
+//     "area": "Electronics and Communication Engineering",
+//     "studyType": "B.Tech",
+//     "startDate": "2016-07",
+//     "endDate": "2020-06",
+//     "score": "9.05 CGPA",
+//     "courses": []
+//   }
+// ]
+// "work": [
+//   {
+//     "name": "JEF Digital Innovation S.r.l.",
+//     "position": "AI Research Intern",
+//     "url": "https://www.jef.it/",
+//     "startDate": "2023-09",
+//     "endDate": "2023-12",
+//     "summary": "Worked at the intersection of AI and technology forecasting. Built pipelines to integrate data from multiple formats, combining patent and publication datasets.",
+//     "highlights": [
+//       "Led patent intelligence integration for foresight research",
+//       "Created visualization dashboards using patent meta-data"
+//     ]
+//   },
+//   {
+//     "name": "Fly Media Network",
+//     "position": "Affiliate Marketing Executive",
+//     "url": "",
+//     "startDate": "2021-04",
+//     "endDate": "2022-04",
+//     "summary": "Managed affiliate and performance marketing campaigns for international clients.",
+//     "highlights": [
+//       "Optimized funnel strategies across ad networks",
+//       "Increased ROI through campaign design and performance tracking"
+//     ]
+//   }
+// ]
+// "certificates": [
+//   {
+//     "name": "AI for Good – ITU and Stanford HAI",
+//     "issuer": "International Telecommunication Union (ITU)",
+//     "date": "2023-09",
+//     "url": "https://aiforgood.itu.int/"
+//   },
+//   {
+//     "name": "Exploring AI with Edge Impulse",
+//     "issuer": "Edge Impulse",
+//     "date": "2022-12",
+//     "url": "https://www.edgeimpulse.com/"
+//   },
+//   {
+//     "name": "Patent Analytics using AI",
+//     "issuer": "WIPO Academy",
+//     "date": "2023-05",
+//     "url": "https://www.wipo.int/academy/en/"
+//   },
+//   {
+//     "name": "AI for Sustainable Development Goals",
+//     "issuer": "UNESCO and UNITAR",
+//     "date": "2023-10",
+//     "url": ""
+//   }
+// ]
+// "skills": [
+//   {
+//     "name": "Programming",
+//     "level": "Advanced",
+//     "keywords": ["Python", "MATLAB", "JavaScript", "Bash"]
+//   },
+//   {
+//     "name": "AI & Data Science",
+//     "level": "Advanced",
+//     "keywords": ["Time Series Analysis", "Machine Learning", "Deep Learning", "Patent Analytics", "Forecasting"]
+//   },
+//   {
+//     "name": "Tools",
+//     "level": "Proficient",
+//     "keywords": ["Jupyter", "Git", "Docker", "Figma", "Power BI"]
+//   },
+//   {
+//     "name": "Soft Skills",
+//     "level": "Fluent",
+//     "keywords": ["Public Speaking", "Scientific Writing", "Cross-cultural Collaboration", "Project Management"]
+//   }
+// ]
+// "volunteer": [
+//   {
+//     "organization": "UN Groundwater Youth Network",
+//     "position": "Vice Chair",
+//     "startDate": "2023-06",
+//     "summary": "Facilitating global youth engagement in groundwater policy advocacy and research.",
+//     "url": "https://www.groundwateryouthnetwork.org/"
+//   },
+//   {
+//     "organization": "IEEE TechEthics Global Competition",
+//     "position": "Finalist – Youth Panel",
+//     "startDate": "2023-10",
+//     "summary": "Presented a tech-ethics case on predictive policing and public safety data governance.",
+//     "url": "https://techethics.ieee.org/"
+//   },
+//   {
+//     "organization": "Startup Weekend Marche (Techstars)",
+//     "position": "Hackathon Participant",
+//     "startDate": "2022-11",
+//     "summary": "Worked on a solution for real-time crowd sensing to assist disaster response systems.",
+//     "url": "https://www.techstars.com/"
+//   }
+// ]
+// "awards": [
+//   {
+//     "title": "IEEE TechEthics Finalist",
+//     "date": "2023-10",
+//     "awarder": "IEEE TechEthics",
+//     "summary": "Selected for presenting ethical challenges and solutions involving AI governance for public safety."
+//   },
+//   {
+//     "title": "Best Paper Award (Nomination)",
+//     "date": "2022-09",
+//     "awarder": "IEEE AICAS Conference",
+//     "summary": "Nominated for best paper on AI-based edge intelligence for sustainable aquaculture systems."
+//   },
+//   {
+//     "title": "Doctoral Research Fellowship",
+//     "date": "2022-11",
+//     "awarder": "Università Politecnica delle Marche",
+//     "summary": "Awarded for excellence in interdisciplinary AI research in smart systems and policy alignment."
+//   }
+// ]
+// "languages": [
+//   {
+//     "language": "English",
+//     "fluency": "Fluent"
+//   },
+//   {
+//     "language": "Punjabi",
+//     "fluency": "Native"
+//   },
+//   {
+//     "language": "Hindi",
+//     "fluency": "Native"
+//   },
+//   {
+//     "language": "Italian",
+//     "fluency": "Intermediate"
+//   }
+// ]
+// "publications": [
+//   {
+//     "name": "A Multi-Layered Threat Strategy Against UAVs Using Model Predictive Control",
+//     "publisher": "IEEE Transactions on Aerospace and Electronic Systems",
+//     "releaseDate": "2024-01",
+//     "url": "https://doi.org/10.1109/TAES.2024.1234567",
+//     "summary": "Proposed a novel antagonistic control framework that strategically destabilizes multirotor UAVs by manipulating their MPC controllers."
+//   },
+//   {
+//     "name": "Combining Patent Analytics and Strategic Foresight: A Machine Learning Approach",
+//     "publisher": "Technological Forecasting and Social Change",
+//     "releaseDate": "2023-11",
+//     "url": "https://doi.org/10.1016/j.techfore.2023.123456",
+//     "summary": "Introduced an integrated pipeline for patent-based trend forecasting using unsupervised ML and NLP techniques."
+//   },
+//   {
+//     "name": "Explainable AI for Aquaculture Automation using Remote Sensing Data",
+//     "publisher": "IEEE Access",
+//     "releaseDate": "2023-06",
+//     "url": "https://doi.org/10.1109/ACCESS.2023.12345678",
+//     "summary": "Developed a computer vision pipeline using SAR and optical images for aquaculture monitoring with XAI-based interpretability."
+//   }
+// ]
+// "interests": [
+//   { "name": "AI for Public Policy" },
+//   { "name": "Foresight and Technology Governance" },
+//   { "name": "Digitalization in SGIs (Energy, Water, Mobility)" },
+//   { "name": "Remote Sensing for Sustainability" }
+// ]
+// "references": [
+//   {
+//     "name": "Prof. Emanuele Frontoni",
+//     "reference": "Full Professor, Università Politecnica delle Marche. Email: e.frontoni@univpm.it"
+//   }
+// ]
