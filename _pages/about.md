@@ -29,12 +29,11 @@ I am particularly interested in applying AI and time series analysis to sustaina
 Please feel free to reach out if you are interested in collaborations at the intersection of innovation, AI, and public good.
 
 
-
 <h3 class="mt-5 mb-4">Core Areas of Work and Engagements</h3>
 
-<div class="row mt-5 mb-4">
+<div class="row mt-4 mb-4">
 
-  <div class="col-md-4">
+  <div class="col-md-6">
     <div class="card p-4 h-100">
       <h4 class="mb-2">Research Directions</h4>
       <ul>
@@ -45,18 +44,22 @@ Please feel free to reach out if you are interested in collaborations at the int
     </div>
   </div>
 
-  <div class="col-md-4">
+  <div class="col-md-6">
     <div class="card p-4 h-100">
       <h4 class="mb-2">Teaching & Mentorship</h4>
       <ul>
         <li>Curriculum design & MOOC delivery</li>
         <li>Academic Services (Conference Special Sessions Hosting, Peer Reviewer)</li>
-        <li>Participation in Startup & Hackathons </li>
+        <li>Participation in Startup & Hackathons</li>
       </ul>
     </div>
   </div>
 
-  <div class="col-md-4">
+</div>
+
+<div class="row mt-4 mb-4">
+
+  <div class="col-md-6">
     <div class="card p-4 h-100">
       <h4 class="mb-2">Policy & Advocacy</h4>
       <ul>
@@ -67,11 +70,7 @@ Please feel free to reach out if you are interested in collaborations at the int
     </div>
   </div>
 
-</div>
-
-<div class="row mt-5 mb-4">
-
-  <div class="col-md-4">
+  <div class="col-md-6">
     <div class="card p-4 h-100">
       <h4 class="mb-2">Technology Orchestration</h4>
       <ul>
@@ -82,15 +81,5 @@ Please feel free to reach out if you are interested in collaborations at the int
     </div>
   </div>
 
-  <!-- <div class="col-md-4">
-    <div class="card p-4 h-100">
-      <h4 class="mb-2">Collaborative Engagement</h4>
-      <ul>
-        <li>Hackathons & innovation labs</li>
-        <li>Reviewer & co-chair roles</li>
-        <li>Interdisciplinary consortia</li>
-      </ul>
-    </div>
-  </div> -->
-
 </div>
+
