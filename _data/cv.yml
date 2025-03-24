@@ -2,96 +2,222 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Gagan Narang
+    - name: Email
+      value: g.narang@pm.univpm.it
+    - name: Alternate Email
+      value: gagan.narang@student.kuleuven.be
+    - name: Affiliation
+      value: PhD Student, VRAI Lab, Università Politecnica delle Marche
+    - name: Research Interests
+      value: AI for Forecasting, Patent Analytics, Remote Sensing, Public Policy
     - name: Languages
-      value: English, German
+      value: English, Hindi, Punjabi, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Information Engineering
+      institution: Università Politecnica delle Marche, Ancona, Italy
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Curriculum: Informatics Management and Automation Engineering
+        - Advisors: Prof. Adriano Mancini, Prof. Primo Zingaretti
+
+    - title: Visiting PhD Student
+      institution: KU Leuven, Belgium
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - 6-month academic visit
+        - Advisor: Prof. Geert Deconinck
+
+    - title: M.Sc. Informatics
+      institution: University of Delhi, India
+      year: 2020 – 2022
+      description:
+        - CGPA: 7.896 / 10 (First Division with Distinction)
+        - Advisor: Prof. Sanjiv Singh
+
+    - title: M.Sc. Computational Physics
+      institution: Universität Bonn, Germany
+      year: 2018 – 2020
+      description:
+        - GPA: 2.1 / 4
+
+    - title: B.Sc. (Hons.) Physics
+      institution: Lovely Professional University, India
+      year: 2015 – 2018
+      description:
+        - CGPA: 9.29 / 10 (First Division with Distinction)
+
+    - title: Visiting Master's Student
+      institution: Shanghai Jiao Tong University, China
+      year: 2022
+      description:
+        - Advisor: Dr. Usharani Hareesh Govindarajan
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Academic Intern
+      institution: Jef Digital Innovation S.r.l., Italy
+      year: May 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - AI-driven strategic forecasting
+        - Integration of patent and publication pipelines
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Instructor – Deep Learning and Time Series Analysis for Climate Change
+      institution: EU Horizon Smart4ENV Project (MOOC), Summer 2024
+      year: 2024
+      description:
+        - Covered IoT, cloud, network technologies, and DL-based time series analysis
+        - Delivered as a recorded MOOC for Smart4ENV
 
+    - title: Teaching Assistant – AI & Citizen Development for International Business
+      institution: Summer School, Summer 2023
+      year: 2023
+      description:
+        - Delivered sessions on AI, NLP, and Microsoft Power Platform for business transformation
+
+    - title: Head TA – Data Structures using Python
+      institution: Nanjing Audit University, China
+      year: Spring 2022
+      description:
+        - Supported course design and delivery under Prof. Shenglei Chen
+
+    - title: TA – Fundamentals of Information Systems
+      institution: emlyon business school, France
+      year: Winter 2022
+      description:
+        - Mentored and supported students in a foundational IS course
+
+    - title: TA – Artificial Intelligence for International Business
+      institution: SKEMA Business School, France
+      year: Fall 2021
+      description:
+        - Delivered tutorials and video-based troubleshooting content
+
+- title: Selected Projects
+  type: time_table
+  contents:
+    - title: Contamination Lab XVIII
+      institution: Università Politecnica delle Marche
+      year: 2024
+      description:
+        - Business plan, innovation strategy, and startup simulation with interdisciplinary team
+
+    - title: Support for Rural Revitalization through e-Mobility
+      institution: “Internet+” Innovation & Entrepreneurship Competition
+      year: 2023
+      description:
+        - Silver Award winner (Shanghai Region)
+        - Built pitch for electric mobility in rural zones
+
+    - title: Online Voting System
+      institution: University of Delhi
+      year: 2022
+      description:
+        - Developed secure web-based e-voting system with AWS + MVC + Node.js
+
+    - title: Simulation of Biological Systems
+      institution: Universität zu Köln, Germany
+      year: 2019
+      description:
+        - Simulated evolution and drug resistance under Prof. Mair
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: AI-Enhanced Ship Detection to Inform on Suspicious Activities
+      institution: Pattern Recognition Letters (In Press)
+      year: 2025
+      description:
+        - Multimodal vision-based detection framework using satellite imagery
+
+    - title: Blockchain Technologies Adoption in Healthcare
+      institution: Technological Forecasting and Social Change
+      year: 2025
+      description:
+        - Co-authored publication analyzing the adoption curve of blockchain in care delivery
+
+    - title: AI Platform for Resilience of Built Environment
+      institution: ACTA IMEKO
+      year: 2024
+      description:
+        - Electrical impedance-based AI monitoring system for civil structures
+
+    - title: Deep Learning for Concrete Structure Monitoring
+      institution: Sensors
+      year: 2024
+      description:
+        - AI-enhanced diagnostic tools for concrete stress analysis
+
+    - title: Groundwater Forecasting using Prophet
+      institution: Water
+      year: 2023
+      description:
+        - Time series modeling with neural and statistical forecasting methods
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: AI-Enhanced Ship Detection to Inform on Suspicious Activities
+      institution: Pattern Recognition Letters (In Press)
+      year: 2025
+      description:
+        - Multimodal vision-based detection framework using satellite imagery
+
+    - title: Blockchain Technologies Adoption in Healthcare
+      institution: Technological Forecasting and Social Change
+      year: 2025
+      description:
+        - Co-authored publication analyzing the adoption curve of blockchain in care delivery
+
+    - title: AI Platform for Resilience of Built Environment
+      institution: ACTA IMEKO
+      year: 2024
+      description:
+        - Electrical impedance-based AI monitoring system for civil structures
+
+    - title: Deep Learning for Concrete Structure Monitoring
+      institution: Sensors
+      year: 2024
+      description:
+        - AI-enhanced diagnostic tools for concrete stress analysis
+
+    - title: Groundwater Forecasting using Prophet
+      institution: Water
+      year: 2023
+      description:
+        - Time series modeling with neural and statistical forecasting methods
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Co-chair, Special Session on Collaborative Business Information and Technology – IEEE CSCWD 2025
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Reviewer for Frontiers in Computer Science
+    - year: 2023
+      items:
+        - Reviewer for ICIAP 2023, ICRA 2024, IROS 2024
+        - Technical Committee Member, Intl. Conf. on AI, Big Data & Comms, South Africa
+    - year: 2022
+      items:
+        - Youth Committee Member, Intl. Conclave on Materials, Energy & Climate (ICMEC)
+        - Committee Member & Session Chair Assistant, IEEE CSCWD 2022
+    - year: 2021
+      items:
+        - Committee Member, Intl. Conf. on AI and its Applications (iCARTI), Mauritius
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: References
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Prof. Adriano Mancini, Università Politecnica delle Marche – a.mancini@staff.univpm.it
+    - Prof. Emanuele Frontoni, University of Macerata – emanuele.frontoni@unimc.it
+    - Dr. Alessandro Galdelli, Università Politecnica delle Marche – a.galdelli@staff.univpm.it
+    - Dr. Usharani Hareesh Govindarajan, USST, China – hareesh.pillai@usst.edu.cn
+    - Prof. Geert Deconinck, KU Leuven, Belgium – geert.deconinck@kuleuven.be
