@@ -2,54 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Gagan Narang
+      value: Albert Einstein
     - name: Date of Birth
-      value: 30th October 1995
+      value: 14th March 1879
     - name: Languages
-      value: English, Hindi, Punjabi, German, Urdu
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Università Politecnica delle Marche, Italy
-      year: 2022-2025*
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Curriculum Informatics Management and Automation Engineering Industry Funded Project (by Jef Digital Innovation s.r.l)
-        - Advisor Dr. Adriano Mancini
-        - Co-Advisor Dr. Primo Zingaretti
-    - title: Master's Degree
-      institution: University of Delhi, India
-      year: 2020-2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Major in Informatics
-        - CGPA 7.896 on a 10-point scale (First Division with Distinction)
-        - Advisor Dr. Usharani Hareesh Govindarajan
-        - Co-Advisor Prof. Sanjiv Singh
+        - Description 1.
+        - Description 2.
 
-    - title: Bachelor's Degree
-      institution: Lovely Professional University, India
-      year: 2015-2018
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Major in Physics
-        - CGPA 9.29 on a 10-point scale (First Division with Distinction)
-        - Advisor  Dr. Muneer Ahmed
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Research and Writing
-      description: 
-        - I am passionate about conducting research and writing academic articles in my field of expertise.
-        - I enjoy exploring new topics and contributing to the knowledge base through scholarly publications.
-    - title: Competitions and Challenges
-      description:
-        - I actively participate in academic competitions and challenges to enhance my skills and stay updated with the latest developments in my field.
-        - I find great value in the collaborative and competitive nature of these events, as they push me to excel and showcase my abilities.
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Blogging, Reading, Outdoor activities
-    - <u>Knowledge Kledoscope:</u> I am the founder of Knowledge Kledoscope, a research consultancy firm dedicated to providing expert insights and solutions to clients in various industries. We specialize in leveraging our academic expertise to address complex challenges and drive innovation.
-    - <u>Novel Designs:</u> I am a co-founder of Novel Designs, an architectural design firm known for its innovative and sustainable approach to design. We strive to create unique and functional spaces that harmonize with the environment and meet the needs of our clients.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
