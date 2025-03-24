@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.dii.univpm.it/'>Dipartimento di Ingegneria dell'Informazione, Università Politecnica delle Marche, Ancona, Italy.</a>.
+subtitle: <a href='https://www.dii.univpm.it/'>Department of Information Engineering, Università Politecnica delle Marche, Ancona, Italy.</a>.
 
 profile:
   align: right
