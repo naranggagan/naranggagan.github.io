@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-consulting",
+          title: "Consulting",
+          description: "Expert consulting on research, European proposals, and academic career guidance.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/consulting/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
