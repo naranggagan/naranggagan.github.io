@@ -16,7 +16,6 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
@@ -31,10 +30,11 @@ jobs:
         pip3 install --upgrade jupyter
         npm install -g mermaid.cli
         export JEKYLL_ENV=production
-        bundle exec jekyll build
+        gem install bundler
+        bundle install
+        bundle exec jekyll build --verbose
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
-
